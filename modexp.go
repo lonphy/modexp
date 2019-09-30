@@ -5,5 +5,5 @@ import (
 )
 
 func PrintSomething()  {
-	log.Println("modexp from v1")
+	log.Println("modexp from v2")
 }
